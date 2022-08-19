@@ -69920,7 +69920,7 @@ return A.dI(A.b([q,p,A.bl(s,A.fr("Soy de profesi\xf3n ingeniero inform\xe1tico, 
 A.Hg.prototype={
 L(a,b){var s=A.nn(50),r=t.w,q=b.I(r).f.a.a<=500?250:300
 r=b.I(r).f.a.a<=500?250:300
-return new A.Ft(s,new A.j6(new A.jV("assets/assets/img/imgProfile.png"),q,r,B.cq,null),null)}}
+return new A.Ft(s,new A.j6(new A.jV("assets/img/imgProfile.png"),q,r,B.cq,null),null)}}
 A.FJ.prototype={
 L(a,b){var s,r,q,p,o,n=this,m=null,l=t.w,k=b.I(l).f,j=b.I(l).f,i=A.a0_(n.e),h=A.fr("Contacto",m,m,m,m,$.anc(),m,m,m),g=A.bU(m,b.I(l).f.a.b*0.02,m),f=A.co(m,m,B.mb,"Si deseas contactarme, lo puedes hacer a trav\xe9s del siguiente formulario, o bien a trav\xe9s de "),e=A.LV(m)
 e.a1=new A.X3(n)

@@ -69919,7 +69919,7 @@ o=b.I(r).f.a.a<=500?b.I(r).f.a.a*0.9:b.I(r).f.a.a*0.3
 return A.dI(A.b([q,p,A.bl(s,A.fr("Soy de profesi\xf3n ingeniero inform\xe1tico, luego obtuve un diploma y una maestr\xeda en Planificaci\xf3n y Control de Gesti\xf3n. Despu\xe9s de un tiempo cetifiqu\xe9 mis conocimientos en la metodolog\xeda Scale Agile y hasta ahora me encuentro ampliando mis conocimientos en Ciencia de Datos.",10,B.bx,s,s,$.na(),s,s,s),B.o,s,s,s,s,s,s,s,s,s,s,o),A.bU(s,b.I(r).f.a.a*0.04,s),A.fr("Mis Stack tecnol\xf3gico",s,s,s,s,$.na(),s,s,s),A.bU(s,b.I(r).f.a.a*0.01,s),A.kJ(B.D2,B.G,B.bf,B.H)],t.p),B.G,B.a5,B.H)}}
 A.Hg.prototype={
 L(a,b){var s=A.nn(50),r=t.w,q=b.I(r).f.a.a<=500?250:300
-return new A.Ft(s,new A.j6(B.xl,q,b.I(r).f.a.a<=500?250:300,B.cq,null),null)}}
+return new A.Ft(s,new A.j6(B.xn,q,b.I(r).f.a.a<=500?250:300,B.cq,null),null)}}
 A.FJ.prototype={
 L(a,b){var s,r,q,p,o,n=this,m=null,l=t.w,k=b.I(l).f,j=b.I(l).f,i=A.a0_(n.e),h=A.fr("Contacto",m,m,m,m,$.anc(),m,m,m),g=A.bU(m,b.I(l).f.a.b*0.02,m),f=A.co(m,m,B.mb,"Si deseas contactarme, lo puedes hacer a trav\xe9s del siguiente formulario, o bien a trav\xe9s de "),e=A.LV(m)
 e.a1=new A.X3(n)
@@ -86675,7 +86675,7 @@ B.xh=new A.ni(1,"inactive")
 B.xi=new A.ni(2,"paused")
 B.xj=new A.ni(3,"detached")
 B.mM=new A.Vi(127)
-B.xl=new A.jV("assets/assets/img/imgProfile.png")
+B.xn=new A.jV("assets/img/imgProfile.png")
 B.fT=new A.EN(1,"end")
 B.bL=A.b(s([]),t.s)
 B.q=new A.Ah(1,"downstream")
@@ -87552,10 +87552,10 @@ B.xk=new A.jV("assets/img/python.png")
 B.B1=new A.j6(B.xk,48,48,B.cq,null)
 B.xo=new A.jV("assets/img/sql.png")
 B.B2=new A.j6(B.xo,48,48,B.cq,null)
-B.xn=new A.jV("assets/img/power bi.png")
-B.B0=new A.j6(B.xn,48,48,B.cq,null)
-B.xm=new A.jV("assets/img/flutter.png")
-B.B3=new A.j6(B.xm,48,48,B.cq,null)
+B.xm=new A.jV("assets/img/power bi.png")
+B.B0=new A.j6(B.xm,48,48,B.cq,null)
+B.xl=new A.jV("assets/img/flutter.png")
+B.B3=new A.j6(B.xl,48,48,B.cq,null)
 B.D2=A.b(s([B.B1,B.B2,B.B0,B.B3]),t.p)
 B.ic=A.b(s(["A::href","AREA::href","BLOCKQUOTE::cite","BODY::background","COMMAND::icon","DEL::cite","FORM::action","IMG::src","INPUT::src","INS::cite","Q::cite","VIDEO::poster"]),t.s)
 B.cL=new A.f(4294967304)
